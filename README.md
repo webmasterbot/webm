@@ -2,6 +2,9 @@
 This is the GitHub repository for the Dragonkind Discord bot. This robot is an all-purpose robot with moderation, a finance API, and more. <br>
 
 # Commands
+## &whatsnew
+Returns the release notes of the bot's current version.
+
 ## &say `text`
 Returns `text`. But beware! It could get a little repetitive... <br>
 ![say snirt](https://user-images.githubusercontent.com/71795010/156643439-8d07ef25-9e8b-4bdd-8a9c-42f1f26ce71c.png)
