@@ -1,6 +1,9 @@
 # Dragonkind
 This is the GitHub repository for the Dragonkind Discord bot. This robot is an all-purpose robot with moderation, a finance API, and more. <br>
 
+##### Dragonkind is going to shift versions! V 1.0.2 is coming soon.
+
+
 # Commands
 ## &whatsnew
 Returns the release notes of the bot's current version.
