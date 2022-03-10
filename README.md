@@ -6,6 +6,7 @@ This is the GitHub repository for the Dragonkind Discord bot. This robot is in d
 
 # Links to pages not included
 <a href="https://dragonkind-discord.github.io/dragonkind/SECURITY"><button>Security</button></a>
+<a href="https://dragonkind-discord.github.io/dragonkind/privacy"><button>Privacy Policy</button></a>
 
 # Commands
 ## &whatsnew
