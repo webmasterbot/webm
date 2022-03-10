@@ -1,3 +1,5 @@
+![Dragonkind logo 3](https://user-images.githubusercontent.com/71795010/157756333-a9a06ce1-4e15-4b1b-94bb-19bab262a294.png)
+
 # Dragonkind
 This is the GitHub repository for the Dragonkind Discord bot. This robot is in development, so add to your server and twiddle your thumbs. <br>
 
