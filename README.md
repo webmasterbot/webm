@@ -1,5 +1,5 @@
 # Dragonkind
-This is the GitHub repository for the Dragonkind Discord bot. This robot is an all-purpose robot with moderation, a finance API, and more. <br>
+This is the GitHub repository for the Dragonkind Discord bot. This robot is in development, so add to your server and twiddle your thumbs. <br>
 
 ##### Dragonkind is going to shift versions! V 1.0.2 is coming soon.
 [Get the bot](https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot)
