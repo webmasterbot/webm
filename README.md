@@ -2,7 +2,7 @@
 This is the GitHub repository for the Dragonkind Discord bot. This robot is in development, so add to your server and twiddle your thumbs. <br>
 
 ##### Dragonkind is going to shift versions! V 1.0.2 is coming soon.
-[Get the bot](https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot)
+<a href="https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot"><button>Get the bot now!</button></a>
 
 # Links to pages not included
 <a href="https://dragonkind-discord.github.io/dragonkind/SECURITY"><button>Security</button></a>
