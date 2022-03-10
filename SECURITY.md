@@ -6,7 +6,7 @@ As Dragonkind is only on Version 1.0.0, there is currently no straightforward wa
 
 | Supported versions | Supported? |
 | ------------------ | ---------- |
-| 1.0.2 (upcoming update) | ✔️ |
+| 1.0.2 (upcoming update) | :question: |
 | < 1.0   | :x: |
 
 ## Reporting a Vulnerability
