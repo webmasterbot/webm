@@ -15,6 +15,7 @@ There have been a few changes to commands:
 * `hackem` is now `getInfo`
 * `getInfo` is now available to all users
 * `useHelp`, `useFinanceApi`, and the stop equivalent commands have been removed (they don't work)
+* `dmInfo` has been removed (likely to not be used)
 * `join` and `leave` allow the bot to join/leave your voice channel
 
 # Commands
