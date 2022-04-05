@@ -1,8 +1,7 @@
 # Dragonkind
 This is the GitHub repository for the Dragonkind Discord bot. <br>
 
-##### Dragonkind v1.0.2 will launch on April 1st. Join up now!
-<a href="https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot"><button>Get the bot</button></a>
+##### Dragonkind v1.0.8 will launch on April 8th.
 
 ##### We'd appreciate your feedback! <a href="https://forms.gle/jpRsdyQzcKaJtApm8">Submit feedback</a>
 
@@ -12,11 +11,8 @@ This is the GitHub repository for the Dragonkind Discord bot. <br>
 
 # Command updates
 There have been a few changes to commands:
-* `hackem` is now `getInfo`
-* `getInfo` is now available to all users
-* `useHelp`, `useFinanceApi`, and the stop equivalent commands have been removed (they don't work)
-* `dmInfo` has been removed (likely to not be used)
-* `join` and `leave` allow the bot to join/leave your voice channel
+* New command `&ping` gets the latency of the bot
+* New command `&addRole` adds roles to members
 
 # Commands
 ## &whatsnew
@@ -37,3 +33,12 @@ If you are connected to a voice channel, the bot will connect to it.
 
 ## &leave
 Leaves the voice channel.
+
+## &addRole `discord.Member` `discord.Role`
+When you mention a user and role, it adds the role to the user.
+
+## &ping
+Gets the latency.
+
+## &eval `e`
+Executes `e`. e must be Python code.
