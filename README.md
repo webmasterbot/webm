@@ -11,8 +11,11 @@ This is the GitHub repository for the Dragonkind Discord bot. <br>
 
 # Command updates
 There have been a few changes to commands:
-* New command `&ping` gets the latency of the bot
-* New command `&addRole` adds roles to members
+* The commands are now in classes (commands.Cog) to allow for organization
+* New command addRole allows you to add roles to users (required: discord.Member, discord.Role)
+* New command eval allows you to execute Python code through the bot
+* Introducing "Status", tells you whether the bot is currently executing a command (in beta testing, will go live in v1.1.0)
+* New command ping tells you how slow the bot responds to commands.
 
 # Commands
 ## &whatsnew
