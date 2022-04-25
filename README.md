@@ -1,7 +1,7 @@
 # Dragonkind
 This is the GitHub repository for the Dragonkind Discord bot. <br>
 
-##### Dragonkind v1.0.8 will launch on April 8th.
+##### Dragonkind v1.1.2 will launch soon.
 
 ##### We'd appreciate your feedback! <a href="https://forms.gle/jpRsdyQzcKaJtApm8">Submit feedback</a>
 
