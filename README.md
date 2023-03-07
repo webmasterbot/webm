@@ -1,14 +1,14 @@
 # Dragonkind
-This is the GitHub repository for the Dragonkind Discord bot. <br>
+This is the GitHub repository for the Webmaster Discord bot. <br>
 <a href="https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot"><button>Get the bot</button></a>
 
-##### Dragonkind v1.1.2 will launch soon.
+##### Webmaster v1.1.5 is now running.
 
 ##### We'd appreciate your feedback! <a href="https://forms.gle/jpRsdyQzcKaJtApm8">Submit feedback</a>
 
 # Links to pages not included
-<a href="https://dragonkind-discord.github.io/dragonkind/SECURITY"><button>Security</button></a><br>
-<a href="https://dragonkind-discord.github.io/dragonkind/privacy"><button>Privacy Policy</button></a>
+<a href="https://webmasterbot.github.io/dragonkind/SECURITY"><button>Security</button></a><br>
+<a href="https://webmasterbot.github.io/dragonkind/privacy"><button>Privacy Policy</button></a>
 
 # Command updates
 There have been a few changes to commands:
