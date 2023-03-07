@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-As Dragonkind is only on Version 1.0.0, there is currently no straightforward way to report security vulnerablilities.
+There is no straightfoward way to report vulnerabilities. See Reporting a Vulnerability below.
 
 | Supported versions | Supported? |
 | ------------------ | ---------- |
