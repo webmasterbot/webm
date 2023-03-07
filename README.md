@@ -1,4 +1,4 @@
-# Dragonkind
+# Webmaster </>
 This is the GitHub repository for the Webmaster Discord bot. <br>
 <a href="https://discord.com/api/oauth2/authorize?client_id=908462997687660574&permissions=8&scope=bot"><button>Get the bot</button></a>
 
