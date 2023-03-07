@@ -7,8 +7,8 @@ This is the GitHub repository for the Webmaster Discord bot. <br>
 ##### We'd appreciate your feedback! <a href="https://forms.gle/jpRsdyQzcKaJtApm8">Submit feedback</a>
 
 # Links to pages not included
-<a href="https://webmasterbot.github.io/dragonkind/SECURITY">Security</a><br>
-<a href="https://webmasterbot.github.io/dragonkind/privacy">Privacy Policy</a>
+<a href="https://webmasterbot.github.io/webm/SECURITY">Security</a><br>
+<a href="https://webmasterbot.github.io/webm/privacy">Privacy Policy</a>
 
 # Command updates
 There have been a few changes to commands:
