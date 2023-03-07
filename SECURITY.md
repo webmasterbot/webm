@@ -6,11 +6,14 @@ As Dragonkind is only on Version 1.0.0, there is currently no straightforward wa
 
 | Supported versions | Supported? |
 | ------------------ | ---------- |
-| 1.0.2 (upcoming update) | :question: |
-| < 1.0   | :x: |
+| 1.1.5 (beta, running) | :x: |
+| 1.1.2 | :x: |
+| 1.1.0 | :x: |
+| 1.0.2 | :x: |
+| < 1.0 | :x: |
 
 ## Reporting a Vulnerability
 
-If a vulnerablity is found please join the Dragonkind Discord server and DM ModMail.
+If a vulnerablity is found please join the Webmaster Discord server and DM ModMail.
 
 Expect an update within 3-4 days.
