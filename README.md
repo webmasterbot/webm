@@ -11,12 +11,7 @@ This is the GitHub repository for the Webmaster Discord bot. <br>
 <a href="https://webmasterbot.github.io/webm/privacy">Privacy Policy</a>
 
 # Command updates
-There have been a few changes to commands:
-* The commands are now in classes (commands.Cog) to allow for organization
-* New command addRole allows you to add roles to users (required: discord.Member, discord.Role)
-* New command eval allows you to execute Python code through the bot
-* Introducing "Status", tells you whether the bot is currently executing a command (in beta testing, will go live in v1.1.0)
-* New command ping tells you how slow the bot responds to commands.
+Nothing new yet
 
 # Commands
 ## &whatsnew
