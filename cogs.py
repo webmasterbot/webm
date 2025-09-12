@@ -9,21 +9,14 @@ finnhubSandboxKey = "sandbox_c8jqh02ad3i8fk1jtkn0"
 class Main(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
-    
+
     #What's new command
     @commands.command()
     async def whatsnew(self, ctx):
-        """
-Gets the release notes."""
+        """Gets the 'release notes'. not really applicable anywhere."""
         await ctx.send(f'''
-    Current version of bot: V1.0.2
-    What's new:
-    Added the "&ping" command to get the latency of the bot.
-    Added the "&addRole" command to add roles.
-    Added the "&eval" command to execute Python code.
-    If you run a command at the same time as someone else, it will give a new
-    message saying it is busy.
-    General bug fixes.''')
+Current version: DEVELOPMENT VERSION!
+v2''')
 
     @commands.command()
     async def getInfo(self, ctx, user: discord.Member):
@@ -38,11 +31,12 @@ Gets the release notes."""
     Account creation date: {accDate}
     Roles: {roles}
     Status: {user.raw_status}''')
-    
+
+
 class Finance(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
-        
+
     #Finance API
     @commands.command()
     @commands.has_role("financeUser")
@@ -95,7 +89,6 @@ class Voice(commands.Cog):
             await ctx.send(f"Left the channel.")
         else:
             await ctx.send("Not connected to a voice channel.")
-        
 
 # Fun cog
 class Fun(commands.Cog):
@@ -111,9 +104,9 @@ class Fun(commands.Cog):
 
     #Random command that makes the bot "super angry" (github.com/chillnchar/Dragonkind#doit)
     @commands.command()
-    async def doit(self, ctx):
+    async def insult(self, ctx):
         """Random."""
-        await ctx.send(f"Lol, {ctx.author.mention} is dumb and a noob")
+        await ctx.send(f"{ctx.author.mention} wears mlp underpants")
 
 class New(commands.Cog):
     def __init__(self, bot: commands.Bot):
