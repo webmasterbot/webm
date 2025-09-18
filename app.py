@@ -3,11 +3,13 @@ try:
 	import os, discord, tracemalloc, time, datetime
 	from discord.ext import commands
 	from dotenv import load_dotenv
+	import v2
 	status = "Succeeded"
 except Exception as inst:
 	status = f"An error occured: \n {str(type(inst))} \n {inst}"
 
 app = Flask(__name__)
+bot = v2.BotFrontend()
 
 @app.route('/')
 def main():
