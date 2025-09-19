@@ -1,0 +1,2 @@
+INFO:__main__:Log started
+CRITICAL:__main__:Bot refused to start

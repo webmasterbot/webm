@@ -1,16 +1,18 @@
 from flask import Flask, render_template
-try:
-	import os, discord, tracemalloc, time, datetime
-	from discord.ext import commands
-	from dotenv import load_dotenv
-	import v2
-	status = "Succeeded"
-except Exception as inst:
-	status = f"An error occured: \n {str(type(inst))} \n {inst}"
+from bot import v2
+import tracemalloc, asyncio,  os, logging
+
+logging.basicConfig(filename="log.txt", level=logging.INFO, filemode="w")
+logger = logging.getLogger(__name__)
+logger.info("Log started")
 
 app = Flask(__name__)
-bot = v2.BotFrontend()
 
+try:
+	asyncio.run(v2.start())
+	logger.info("Bot started")
+except Exception as inst:
+	logger.critical("Bot refused to start")
 @app.route('/')
 def main():
 	return render_template("main.html", botStatus=status)
