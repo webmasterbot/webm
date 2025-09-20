@@ -8,11 +8,9 @@ logger.info("Log started")
 
 app = Flask(__name__)
 
-try:
-	asyncio.run(v2.start())
-	logger.info("Bot started")
-except Exception as inst:
-	logger.critical("Bot refused to start")
+asyncio.run(v2.startFromFlask())
+
+
 @app.route('/')
 def main():
 	return render_template("main.html", botStatus=status)

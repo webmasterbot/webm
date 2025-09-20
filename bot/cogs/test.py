@@ -10,8 +10,8 @@ class Test(commands.Cog):
 	async def test(self, interaction: discord.Interaction):
 		await interaction.response.send("Tested and working, tried and true :D")
 
-	async def cog_load(self):
-		self.bot.tree.add_command(self.test)
+#	async def cog_load(self):
+#		self.bot.tree.add_command(self.test)
 
 async def setup(bot: commands.Bot):
-	bot.add_cog(Test(bot))
+	await bot.add_cog(Test(bot))
